@@ -63,4 +63,4 @@ python convert_to_pdf.py
 
 ## License
 
-No license file is included yet. Add one if you plan to distribute this project.
+Check [LICENSE](LICENSE)
